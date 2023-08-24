@@ -45,7 +45,9 @@ async def on_message(message):
             myList = ("hello,  bye,  !random,  !facebook,  !instagram,  !twitter")
             await message.channel.send(myList)
             return                            
-                                            
+
+//great
+
                                             
                                             
             
